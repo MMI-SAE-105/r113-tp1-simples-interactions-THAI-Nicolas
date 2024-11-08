@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : THAI
+- prénom : Nicolas
+- URL Netlify :https://heroic-granita-8afb37.netlify.app/
 
 # Travail
 
